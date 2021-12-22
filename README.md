@@ -7,15 +7,15 @@
 
 ---
 
-<img style="max-width: 320px; border-radius: 10px;" src="https://cdn.discordapp.com/attachments/922557394419056671/922882486529319003/demo.gif">
+<img style="width: 320px; border-radius: 10px;" src="https://cdn.discordapp.com/attachments/922557394419056671/922901325312823386/demo.gif">
 
 ---
 
 ### 📱 Interface
-
-<img style="max-height: 350px; border-radius: 10px;" src="https://cdn.discordapp.com/attachments/922557394419056671/922893824928383006/demoMobile.png">
-<img style="max-height: 350px; border-radius: 10px;"src="https://cdn.discordapp.com/attachments/922557394419056671/922893838685724682/demoMobileLyrics.png">
-
+<div style="display: flex;">
+<img style="height: 350px; border-radius: 10px;" src="https://cdn.discordapp.com/attachments/922557394419056671/922893824928383006/demoMobile.png">
+<img style="height: 350px; border-radius: 10px;"src="https://cdn.discordapp.com/attachments/922557394419056671/922893838685724682/demoMobileLyrics.png">
+</div>
 ---
 
 ### ⚙️ Funcionalidades 
