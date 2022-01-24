@@ -99,8 +99,3 @@ const handleSongsContainerClick = event => {
 
 form.addEventListener('submit', handleFormSubmit);
 songsContainer.addEventListener('click', handleSongsContainerClick);
-
-let coffee;
-
-
-!coffee ? coffee.refill() : coffee.drink();
